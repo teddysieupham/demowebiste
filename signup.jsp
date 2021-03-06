@@ -14,7 +14,7 @@
         <div class="input-box">
           
             <div>
-                <label>UserName</label>
+                <label>User Name</label>
             </div>
             <div>
                 <input type="text" name="username" class="form-control">
@@ -28,6 +28,13 @@
                 <input type="password" name="password" class="form-control">
             </div>
         </div>
+        <div>
+            <label>Password Confimation</label>
+        </div>
+        <div>
+            <input type="password" name="password-confimation" class="form-control">
+        </div>
+    </div>
         <div class="input-box">
             <div>
                 <label>Email</label>
