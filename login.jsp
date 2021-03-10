@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <link rel="stylesheet" href="../main/webapp/vendor/lib/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../main/webapp/vendor/css/styles.css">
-    <link rel="stylesheet" href="../main/webapp/vendor/css/login.css">
+    <link rel="stylesheet" href="../w3css/bootstrap.min.css">
+    <link rel="stylesheet" href="../w3css/styles.css">
+    <link rel="stylesheet" href="../w3css/login.css">
 </head>
 <body>
 <div class="center-body">
